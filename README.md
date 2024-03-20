@@ -1,7 +1,7 @@
 # skygoal-auth
 clone the repo to your local computer  
 the local machine must have node environment and mongodb setup to run the code  
-stpes to be followed for running in your local machine  
+steps to be followed for running in your local machine  
 1.create a .env file with follwing set as you wish  
 PORT=  
 SECRET_KEY=  
